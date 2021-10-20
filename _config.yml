@@ -83,10 +83,10 @@ author:
   name             : "Kyle Young"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "University of Illinois at Urbana-Champaign"
+  location         : "Champaign, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -105,7 +105,7 @@ author:
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "soundcloud.com/pimonster"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
