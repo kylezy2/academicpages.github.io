@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kyle Young"
+# title: "Kyle Young"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
