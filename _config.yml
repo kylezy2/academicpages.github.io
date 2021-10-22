@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kyle Young"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : # "Your biography for the left-hand sidebar"
   location         : "Champaign, IL"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "kylezy2@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  bandcamp         : "http://pimonster.bandcamp.com"
 
 # Reading Files
 include:
