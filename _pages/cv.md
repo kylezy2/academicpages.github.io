@@ -15,43 +15,37 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021: Undergraduate Research
+  * University of Illinois at Urbana Champaign
+  *  viability of the in-house fabrication of flexible CMC materials for hypersonics research applications
+  * Fabricating and mechanically testing CMC samples composed of ceramics and carbon fiber weaves
+  * Supervisor: Professor Francesco Panerai
   
+Clubs
+======
+* 2021: THRUST
+  * Ignition Team
+* 2020: Student Aircraft Builders (SAB)
+* 2019-2021: AIAA Student Chapter
+  * 2021 Jetcat Team member
+* 2019: Illinois Space Society (ISS)
+  * RASC-AL CAD Team 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ANSYS
+* CAD
+  * Solidworks
+  * Siemens NX
+  * Auto
+* Python
+* Matlab
+* Microsoft Office
+* Six Sigma
+* Agile
+* Scrum
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Collaborated with a group of 15 volunteers to construct houses in Tijuana, Mexico
