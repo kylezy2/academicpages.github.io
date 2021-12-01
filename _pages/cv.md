@@ -17,7 +17,7 @@ Work experience
 ======
 * 2021: Undergraduate Research
   * University of Illinois at Urbana Champaign
-  *  viability of the in-house fabrication of flexible CMC materials for hypersonics research applications
+  * Determining viability of the in-house fabrication of flexible CMC materials for hypersonics research applications
   * Fabricating and mechanically testing CMC samples composed of ceramics and carbon fiber weaves
   * Supervisor: Professor Francesco Panerai
   
