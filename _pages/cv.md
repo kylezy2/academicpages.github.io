@@ -37,7 +37,7 @@ Skills
 * CAD
   * Solidworks
   * Siemens NX
-  * Auto
+  * Autodesk Fusion 360
 * Python
 * Matlab
 * Microsoft Office
