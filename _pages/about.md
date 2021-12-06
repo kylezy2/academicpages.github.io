@@ -12,4 +12,4 @@ Hello! My name is Kyle Young, and I am a Junior in Aerospace Engineering at the 
 
 My goal is be a part of the teams that push aeronautics to its limits, through both materials and fluid dynamics. I am currently conducting research with Professor Francesco  Panerai investigating a method of fabricating flexible ceramic matrix composites. 
 
-In my free time I like to play the cello and piano, produce music, tinker with electronics, build scale models. 
+In my free time I like to play the cello and piano, produce music, tinker with electronics, and build scale models. 
